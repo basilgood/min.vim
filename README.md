@@ -7,13 +7,13 @@ inspired from
 etc.
 
 nix  
-![Screenshot](https://raw.githubusercontent.com/basilgood/min.vim/assets/screenshot.png)  
+![Screenshot](https://raw.githubusercontent.com/basilgood/min.vim/assets/assets/screenshot.png)  
 search  
-![Search](https://raw.githubusercontent.com/basilgood/min.vim/assets/search.png)  
+![Search](https://raw.githubusercontent.com/basilgood/min.vim/assets/assets/search.png)  
 diff  
-![Search](https://raw.githubusercontent.com/basilgood/min.vim/assets/diff.png)  
+![Search](https://raw.githubusercontent.com/basilgood/min.vim/assets/assets/diff.png)  
 transparent background  
-![Search](https://raw.githubusercontent.com/basilgood/min.vim/assets/transparent.png)
+![Search](https://raw.githubusercontent.com/basilgood/min.vim/assets/assets/transparent.png)
 
 ## features
 - only for terminal 256-color (no termguicolors)
