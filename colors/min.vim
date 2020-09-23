@@ -70,8 +70,8 @@ hi DiffText              cterm=NONE   ctermfg=195  ctermbg=240
 hi diffAdded             ctermfg=40   cterm=NONE
 hi diffRemoved           ctermfg=204
 
-hi Pmenu                 ctermfg=NONE ctermbg=237  cterm=NONE
-hi PmenuSel              ctermfg=NONE ctermbg=19
+hi Pmenu                 ctermfg=NONE ctermbg=235  cterm=NONE
+hi PmenuSel              ctermfg=NONE ctermbg=17
 hi PmenuSbar             ctermbg=239
 hi PmenuThumb            ctermbg=244
 
