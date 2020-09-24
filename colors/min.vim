@@ -53,8 +53,8 @@ hi Folded                ctermfg=109  ctermbg=16
 hi Search                ctermfg=237  ctermbg=140  cterm=reverse
 hi IncSearch             ctermfg=1    ctermbg=21
 hi QuickFixLine          ctermfg=202  ctermbg=NONE
-hi NonText               ctermfg=8    ctermbg=NONE cterm=NONE
-hi SpecialKey            ctermfg=8    ctermbg=NONE cterm=NONE
+hi NonText               ctermfg=235  ctermbg=NONE cterm=NONE
+hi SpecialKey            ctermfg=235  ctermbg=NONE cterm=NONE
 hi StatusLine            ctermfg=144  ctermbg=237  cterm=NONE
 hi StatusLineNC          ctermfg=239  ctermbg=235  cterm=NONE
 hi Todo                  ctermfg=33   ctermbg=NONE cterm=NONE
