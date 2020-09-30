@@ -119,7 +119,10 @@ hi! link jsFuncParens Delimiter
 hi! link jsIfElseBraces Delimiter
 hi! link jsFuncBraces Delimiter
 hi! link jsObjectBraces Delimiter
+hi! link jsModuleBraces Delimiter
+hi! link jsNoise Statement
 hi! link jsFunction Statement
 hi! link jsReturn Type
 hi! link jsObjectKey Type
 hi! link jsxElement Type
+hi! link jsxBraces Delimiter
