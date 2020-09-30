@@ -122,3 +122,4 @@ hi! link jsObjectBraces Delimiter
 hi! link jsFunction Statement
 hi! link jsReturn Type
 hi! link jsObjectKey Type
+hi! link jsxElement Type
