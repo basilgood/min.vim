@@ -57,6 +57,8 @@ hi NonText               ctermfg=235  ctermbg=NONE cterm=NONE
 hi SpecialKey            ctermfg=235  ctermbg=NONE cterm=NONE
 hi StatusLine            ctermfg=144  ctermbg=237  cterm=NONE
 hi StatusLineNC          ctermfg=239  ctermbg=235  cterm=NONE
+hi StatusLineTerm        ctermfg=144  ctermbg=237  cterm=NONE
+hi StatusLineTermNC      ctermfg=239  ctermbg=235  cterm=NONE
 hi Todo                  ctermfg=33   ctermbg=NONE cterm=NONE
 hi TabLine               ctermfg=252  ctermbg=235  cterm=NONE
 hi TabLineSel            ctermfg=235  ctermbg=162  cterm=bold
