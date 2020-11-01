@@ -35,7 +35,7 @@ hi PreCondit             ctermfg=173
 hi Type                  ctermfg=179  cterm=NONE
 hi Structure             ctermfg=116
 
-hi Special               ctermfg=211
+hi Special               ctermfg=204
 hi Delimiter             ctermfg=61
 hi StorageClass          ctermfg=174
 
