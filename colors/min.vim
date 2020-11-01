@@ -84,7 +84,7 @@ hi SpellCap              ctermbg=53
 hi SpellLocal            ctermbg=53
 hi SpellRare             ctermbg=53
 
-hi Directory             ctermfg=114  cterm=NONE
+hi Directory             ctermfg=104  cterm=NONE
 hi Ignore                ctermfg=244  ctermbg=232
 hi MatchParen            ctermfg=15   ctermbg=239  cterm=bold
 hi ModeMsg               ctermfg=229
