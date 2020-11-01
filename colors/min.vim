@@ -26,7 +26,7 @@ hi Float                 ctermfg=204
 hi Identifier            ctermfg=104  cterm=NONE
 hi Statement             ctermfg=211  cterm=NONE
 
-hi PreProc               ctermfg=143  cterm=NONE
+hi PreProc               ctermfg=144  cterm=NONE
 hi Include               ctermfg=173
 hi Define                ctermfg=173
 hi Macro                 ctermfg=173
@@ -124,7 +124,4 @@ hi! link jsObjectBraces Delimiter
 hi! link jsModuleBraces Delimiter
 hi! link jsNoise Statement
 hi! link jsFunction Statement
-hi! link jsReturn Type
-hi! link jsObjectKey Type
-hi! link jsxElement Type
 hi! link jsxBraces Delimiter
