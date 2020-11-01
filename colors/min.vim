@@ -97,12 +97,12 @@ hi VisualNOS             ctermfg=NONE ctermbg=NONE cterm=underline
 hi WarningMsg            ctermfg=231  ctermbg=238  cterm=NONE
 hi WildMenu              ctermfg=110  ctermbg=23
 
-hi GitGutterAdd          ctermfg=22   ctermbg=232
-hi GitGutterChange       ctermfg=142  ctermbg=232
-hi GitGutterDelete       ctermfg=9    ctermbg=232
-hi GitGutterChangeDelete ctermfg=9    ctermbg=232
-hi ALEWarningSign        ctermfg=142  ctermbg=232
-hi ALEErrorSign          ctermfg=9    ctermbg=232
+hi GitGutterAdd          ctermfg=22   ctermbg=235
+hi GitGutterChange       ctermfg=142  ctermbg=235
+hi GitGutterDelete       ctermfg=9    ctermbg=235
+hi GitGutterChangeDelete ctermfg=9    ctermbg=235
+hi ALEWarningSign        ctermfg=142  ctermbg=235
+hi ALEErrorSign          ctermfg=9    ctermbg=235
 
 hi! link nixParen Delimiter
 hi! link nixListBracket Delimiter
