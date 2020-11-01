@@ -24,7 +24,7 @@ hi Boolean               ctermfg=175
 hi Float                 ctermfg=204
 
 hi Identifier            ctermfg=103  cterm=NONE
-hi Statement             ctermfg=167  cterm=NONE
+hi Statement             ctermfg=204  cterm=NONE
 
 hi PreProc               ctermfg=143  cterm=NONE
 hi Include               ctermfg=173
