@@ -48,7 +48,7 @@ hi Conceal               ctermfg=240
 hi LineNr                ctermfg=237  ctermbg=NONE
 hi CursorLineNr          ctermfg=7    ctermbg=235  cterm=NONE
 hi FoldColumn            ctermfg=240  ctermbg=233
-hi SignColumn            ctermfg=232  ctermbg=232
+hi SignColumn            ctermfg=235  ctermbg=235
 hi Folded                ctermfg=109  ctermbg=16
 hi Search                ctermfg=237  ctermbg=140  cterm=reverse
 hi IncSearch             ctermfg=1    ctermbg=21
