@@ -61,7 +61,7 @@ hi StatusLineTerm        ctermfg=144  ctermbg=237  cterm=NONE
 hi StatusLineTermNC      ctermfg=239  ctermbg=235  cterm=NONE
 hi Todo                  ctermfg=33   ctermbg=NONE cterm=NONE
 hi TabLine               ctermfg=252  ctermbg=235  cterm=NONE
-hi TabLineSel            ctermfg=235  ctermbg=162  cterm=bold
+hi TabLineSel            ctermfg=235  ctermbg=102  cterm=bold
 hi TabLineFill           ctermfg=252  ctermbg=235  cterm=NONE
 hi Title                 ctermfg=227  cterm=NONE
 
