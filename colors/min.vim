@@ -41,8 +41,8 @@ hi StorageClass          ctermfg=174
 
 hi Cursor                ctermfg=16   ctermbg=253
 hi CursorIM              ctermfg=16   ctermbg=124
-hi CursorLine            ctermbg=236  cterm=NONE
-hi CursorColumn          ctermbg=236  cterm=NONE
+hi CursorLine            ctermbg=234  cterm=NONE
+hi CursorColumn          ctermbg=234  cterm=NONE
 hi ColorColumn           ctermbg=23
 hi Conceal               ctermfg=240
 hi LineNr                ctermfg=238  ctermbg=234
