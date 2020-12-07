@@ -45,7 +45,7 @@ hi CursorLine            ctermbg=236  cterm=NONE
 hi CursorColumn          ctermbg=236  cterm=NONE
 hi ColorColumn           ctermbg=23
 hi Conceal               ctermfg=240
-hi LineNr                ctermfg=237  ctermbg=NONE
+hi LineNr                ctermfg=238  ctermbg=234
 hi CursorLineNr          ctermfg=7    ctermbg=235  cterm=NONE
 hi FoldColumn            ctermfg=240  ctermbg=233
 hi SignColumn            ctermfg=235  ctermbg=235
