@@ -19,12 +19,12 @@ hi Comment               ctermfg=59   ctermbg=NONE cterm=italic
 hi Constant              ctermfg=104  cterm=NONE
 hi String                ctermfg=65
 hi Character             ctermfg=166
-hi Number                ctermfg=204
+hi Number                ctermfg=210
 hi Boolean               ctermfg=175
-hi Float                 ctermfg=204
+hi Float                 ctermfg=210
 
 hi Identifier            ctermfg=67  cterm=NONE
-hi Statement             ctermfg=211  cterm=NONE
+hi Statement             ctermfg=204  cterm=NONE
 
 hi PreProc               ctermfg=144  cterm=NONE
 hi Include               ctermfg=173
@@ -35,7 +35,7 @@ hi PreCondit             ctermfg=173
 hi Type                  ctermfg=132  cterm=NONE
 hi Structure             ctermfg=116
 
-hi Special               ctermfg=204
+hi Special               ctermfg=130
 hi Delimiter             ctermfg=94
 hi StorageClass          ctermfg=174
 
