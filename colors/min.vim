@@ -32,7 +32,7 @@ hi Define                ctermfg=173
 hi Macro                 ctermfg=173
 hi PreCondit             ctermfg=173
 
-hi Type                  ctermfg=179  cterm=NONE
+hi Type                  ctermfg=132  cterm=NONE
 hi Structure             ctermfg=116
 
 hi Special               ctermfg=204
