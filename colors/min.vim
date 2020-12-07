@@ -36,7 +36,7 @@ hi Type                  ctermfg=179  cterm=NONE
 hi Structure             ctermfg=116
 
 hi Special               ctermfg=204
-hi Delimiter             ctermfg=100
+hi Delimiter             ctermfg=94
 hi StorageClass          ctermfg=174
 
 hi Cursor                ctermfg=16   ctermbg=253
