@@ -92,7 +92,7 @@ hi MoreMsg               ctermfg=229  cterm=NONE
 hi Question              ctermfg=110
 hi Underlined            ctermfg=244  cterm=underline
 hi VertSplit             ctermfg=235  ctermbg=235  cterm=NONE
-hi Visual                ctermfg=23   ctermbg=255  cterm=reverse
+hi Visual                ctermfg=101  ctermbg=233  cterm=reverse
 hi VisualNOS             ctermfg=NONE ctermbg=NONE cterm=underline
 hi WarningMsg            ctermfg=231  ctermbg=238  cterm=NONE
 hi WildMenu              ctermfg=110  ctermbg=23
