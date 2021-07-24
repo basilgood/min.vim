@@ -20,7 +20,7 @@ hi Constant              ctermfg=104  cterm=NONE
 hi String                ctermfg=65
 hi Character             ctermfg=166
 hi Number                ctermfg=144
-hi Boolean               ctermfg=175
+hi Boolean               ctermfg=137
 hi Float                 ctermfg=210
 
 hi Identifier            ctermfg=67  cterm=NONE
