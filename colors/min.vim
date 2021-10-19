@@ -12,8 +12,8 @@ let colors_name = 'min'
 
 set background=dark
 
-hi Normal                ctermfg=102  ctermbg=233  cterm=NONE
-hi EndOfBuffer           ctermfg=235  ctermbg=233  cterm=NONE
+hi Normal                ctermfg=102  ctermbg=234  cterm=NONE
+hi EndOfBuffer           ctermfg=235  ctermbg=234  cterm=NONE
 
 hi Comment               ctermfg=59   ctermbg=NONE cterm=italic
 hi Constant              ctermfg=104  cterm=NONE
