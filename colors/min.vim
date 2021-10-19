@@ -23,7 +23,7 @@ hi Number                ctermfg=144
 hi Boolean               ctermfg=137
 hi Float                 ctermfg=210
 
-hi Identifier            ctermfg=67  cterm=NONE
+hi Identifier            ctermfg=138  cterm=NONE
 hi Statement             ctermfg=139  cterm=NONE
 
 hi PreProc               ctermfg=144  cterm=NONE
