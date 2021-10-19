@@ -17,7 +17,7 @@ hi EndOfBuffer           ctermfg=235  ctermbg=234  cterm=NONE
 
 hi Comment               ctermfg=59   ctermbg=NONE cterm=italic
 hi Constant              ctermfg=104  cterm=NONE
-hi String                ctermfg=65
+hi String                ctermfg=101
 hi Character             ctermfg=166
 hi Number                ctermfg=144
 hi Boolean               ctermfg=137
